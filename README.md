@@ -1,5 +1,5 @@
 # Metasploit Framework 6 in Termux
-[![GitLab Testing status](https://gitlab.com/gushmazuko/metasploit_in_termux/badges/master/pipeline.svg)](https://gitlab.com/gushmazuko/metasploit_in_termux/-/pipelines) ![GitHub Repo stars](https://img.shields.io/github/stars/gushmazuko/metasploit_in_termux?style=social) [![](https://img.shields.io/badge/GitLab-Mirror-succes?link=https://gitlab.com/gushmazuko/metasploit_in_termux)](https://gitlab.com/gushmazuko/metasploit_in_termux)
+[![GitLab Testing status](https://gitlab.com/samsepoil1211/metasploit_in_termux/badges/master/pipeline.svg)](https://gitlab.com/samsepoil1211/metasploit_in_termux/-/pipelines) ![GitHub Repo stars](https://img.shields.io/github/stars/samsepoil1211/metasploit_in_termux?style=social) [![](https://img.shields.io/badge/GitLab-Mirror-succes?link=https://gitlab.com/samsepoil1211/metasploit_in_termux)](https://gitlab.com/samsepoil1211/metasploit_in_termux)
 
 ![Metasploit 6 running](https://i.imgur.com/yLFQhvP.png)
 
@@ -21,7 +21,7 @@ source <(curl -fsSL https://kutt.it/msf)
 ```bash
 pkg install wget
 
-wget https://github.com/gushmazuko/metasploit_in_termux/raw/master/metasploit.sh
+wget https://github.com/samsepoil1211/metasploit_in_termux/raw/master/metasploit.sh
 
 
 chmod +x metasploit.sh
